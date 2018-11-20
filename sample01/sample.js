@@ -1,6 +1,7 @@
 // let name = "홍길동"
 // let age = 30;
 // console.log(age);
+//
 
 let name = "Junil";
 let len = name.length;

@@ -5,7 +5,7 @@ var obj = new Object(); //빈객체 생성 1
 var obj = {};//빈객체 생성 2
 
 obj.name = "Junil";
-console.log(obj.name)
+console.log(obj.name);
 
 var obj2 = new Object();
 obj2["name"] = "홍길동";
